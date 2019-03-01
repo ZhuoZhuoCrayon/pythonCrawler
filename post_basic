@@ -1,4 +1,8 @@
 """
+code by python3.7,utf8
+author:caixiaoxin
+"""
+"""
 post:
     表单数据的处理：form_data = urllib.parse.urlencode(form_data).encode()
     fillder抓包,带箭头小本表示post
