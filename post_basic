@@ -6,6 +6,14 @@ author:caixiaoxin
 post:
     表单数据的处理：form_data = urllib.parse.urlencode(form_data).encode()
     fillder抓包,带箭头小本表示post
+    
+    fillder对json的常见查看
+        请求部分：
+        WebForms:查看post请求表单，用于构造post清单
+        Raw：查看头部信息，构造headers
+        response部分：
+        headers-Content-Encoding:查看response的编码----先查就不会有下面的错误了
+        JSON：查看JSON解析
 """
 
 
