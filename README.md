@@ -1,0 +1,24 @@
+# pythonCrawler
+The crawler instances
+
+
+Python爬虫基础在更
+
+
+Type	Name	Latest commit message	Commit time
+
+2019/03-2019/03/12
+
+1:urllib基础
+
+2:利用ajax的特点构建post请求，及对url异常的处理 实例：豆瓣，kfc餐厅，百度贴吧的页面爬取
+
+3:以百度翻译为例介绍fiddler中json包的解析
+
+4: Handler处理器的应用：设置ip及cookieJar，人人网模拟登陆
+
+5.1正则爬取糗图
+
+5.2正则爬取励志网并建立文章集合页面
+
+...待续
