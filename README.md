@@ -22,3 +22,6 @@ Type	Name	Latest commit message	Commit time
 5.2正则爬取励志网并建立文章集合页面
 
 ...待续
+
+2019/04-
+智联招聘爬虫-通用版：目前已爬取2019年第一季度IT领域招聘信息数据集
