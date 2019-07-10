@@ -25,3 +25,6 @@ Type	Name	Latest commit message	Commit time
 
 2019/04-
 智联招聘爬虫-通用版：目前已爬取2019年第一季度IT领域招聘信息数据集
+
+2019/07/10
+6 基于xpath的html页面信息提取
