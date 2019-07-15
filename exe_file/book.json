@@ -1,0 +1,31 @@
+{ "store": {
+    "book": [
+      { "category": "文学",
+        "author": "路遥",
+        "title": "平凡的世界",
+        "price": 8.95
+      },
+      { "category": "文学",
+        "author": "席慕容",
+        "title": "穆斯林的赞礼",
+        "price": 12.99
+      },
+      { "category": "历史",
+        "author": "二月河",
+        "title": "康熙大帝",
+        "isbn": "0-553-21311-3",
+        "price": 8.99
+      },
+      { "category": "言情",
+        "author": "琼瑶",
+        "title": "The Lord of the Rings",
+        "isbn": "0-395-19395-8",
+        "price": 22.99
+      }
+    ],
+    "bicycle": {
+      "color": "red",
+      "price": 19.95
+    }
+  }
+}
