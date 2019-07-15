@@ -32,3 +32,5 @@ Type	Name	Latest commit message	Commit time
 2019/07/11
 6.1 tip:读取文件中的列表格式
 7 基于图片懒加载的图片下载
+2019/07/15
+8 基于jsonpath的json文件解析方法-以智联招聘为例，ps：b站教程以爬取淘宝评论为例，但现淘宝系统过于难爬
