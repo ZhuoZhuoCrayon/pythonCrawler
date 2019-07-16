@@ -34,3 +34,6 @@ Type	Name	Latest commit message	Commit time
 7 基于图片懒加载的图片下载
 2019/07/15
 8 基于jsonpath的json文件解析方法-以智联招聘为例，ps：b站教程以爬取淘宝评论为例，但现淘宝系统过于难爬
+
+2019/07/16
+  谷歌浏览器驱动，适配谷歌75---在exeFile目录下
