@@ -40,3 +40,6 @@ Type	Name	Latest commit message	Commit time
   
 2019/07/17
   9基于selenium的浏览器控制访问
+
+2019/07/19
+  9.1基于Chrome无界面模式浏览，图片懒加载的特点，异步加载的解决方法
