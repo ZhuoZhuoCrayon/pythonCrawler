@@ -31,7 +31,9 @@ Type	Name	Latest commit message	Commit time
 
 2019/07/11
 6.1 tip:读取文件中的列表格式
+
 7 基于图片懒加载的图片下载
+
 2019/07/15
 8 基于jsonpath的json文件解析方法-以智联招聘为例，ps：b站教程以爬取淘宝评论为例，但现淘宝系统过于难爬
 
@@ -43,3 +45,10 @@ Type	Name	Latest commit message	Commit time
 
 2019/07/19
   9.1基于Chrome无界面模式浏览，图片懒加载的特点，异步加载的解决方法
+  
+2019/07/20
+  10 Requests库的基本用法，以百度搜索，必应翻译，登陆人人网为例介绍post、cookie、get的用法，以及代理使用
+  
+  10.1 Requests库实战，爬取深圳所有公交路线，利用json、Requests库及xpath
+  
+  11 验证码 利用返回验证码到本地的方法登陆古诗文网，利用Requests库（创建会话用于支持cookie），美味汤(beautifulSoup)
