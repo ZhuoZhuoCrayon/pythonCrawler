@@ -54,7 +54,8 @@ def login(__VIEWSTATE, __VIEWSTATEGENERATOR,session):
     }
     # 登陆并且将页面写入文件
     request = session.post(url=post_url,headers=headers,data=data)
-    with open('exe_file/11/gushi.html','w',encoding='utf-8') as file:
+    print(len(request.text))
+    with open('exe_file/11/gushi_error.html','w',encoding='utf-8') as file:
         file.write(request.text)
 def main():
     # 创建会话
