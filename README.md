@@ -58,14 +58,16 @@
     - [11.验证码登陆方式](https://github.com/ZhuoZhuoCrayon/pythonCrawler/blob/master/11verification_code.py)
         + 实例：利用返回验证码到本地的方法登陆古诗文网
         + 运用：Requests库（创建会话用于支持cookie），美味汤(beautifulSoup)
-10. __2019/07/71-2019/07/26__
+10. __2019/07/21-2019/07/26__
     - [11.1pytesser介绍](https://github.com/ZhuoZhuoCrayon/pythonCrawler/blob/master/11.1pytesser.py)
         + 介绍了pytesser库以及PIL库的基本使用
     - [11.2jTessBoxEditor-tesseract字库训练模式](https://github.com/ZhuoZhuoCrayon/pythonCrawler/blob/master/11.2jTessBoxEditor-tesseract.py)
         + 验证码测试脚本
     - **[重点：tesseract训练字库详解](https://github.com/ZhuoZhuoCrayon/pythonCrawler/tree/master/tesseract%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B)**
         + 通过建立特征字符库，逐层加入识别错误的验证码进行补充训练，可以在三次扩充样本训练后达到90%以上识别率
-
+11.__2019/07/28__
+    - [12.视频爬取](https://github.com/ZhuoZhuoCrayon/pythonCrawler/blob/master/12video.py)
+        + 基于xpath, json, chromeDrive-headless的视频爬取方案
 ---
 >## Contributing
 >如果你对这个项目感兴趣，非常乐意你可以将.py文件的笔记和代码进行格式加工
