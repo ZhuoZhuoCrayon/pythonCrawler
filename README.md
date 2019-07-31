@@ -65,9 +65,24 @@
         + 验证码测试脚本
     - **[重点：tesseract训练字库详解](https://github.com/ZhuoZhuoCrayon/pythonCrawler/tree/master/tesseract%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B)**
         + 通过建立特征字符库，逐层加入识别错误的验证码进行补充训练，可以在三次扩充样本训练后达到90%以上识别率
-11.__2019/07/28__
+11. __2019/07/28__
     - [12.视频爬取](https://github.com/ZhuoZhuoCrayon/pythonCrawler/blob/master/12video.py)
         + 基于xpath, json, chromeDrive-headless的视频爬取方案
+12. __2019/07/29-2019/07/31__
+    - [13.多线程基础汇总](https://github.com/ZhuoZhuoCrayon/pythonCrawler/blob/master/13multiThread.py)
+    - [13.1多线程的面向对象构造形式](https://github.com/ZhuoZhuoCrayon/pythonCrawler/blob/master/13.1thread_ood.py)
+    - [13.2队列的基本Queue的基本操作](https://github.com/ZhuoZhuoCrayon/pythonCrawler/blob/master/13.2thread_queue.py)
+    - [13.3多线程爬取深圳公交线路](https://github.com/ZhuoZhuoCrayon/pythonCrawler/blob/master/13.3Mthread_crawler.py)
+        + 基于10.1的程序进行多线程重构
+        + 多线程爬取速度提升至500%
+13. __2019/03-2019/05__
+    - [实战：58同城租房价格爬取](https://github.com/ZhuoZhuoCrayon/pythonCrawler/blob/master/58crawler/58decode.py)
+        + 涉及反爬策略，关于编码转化的技巧
+    - [实战：中国大学排名爬取](https://github.com/ZhuoZhuoCrayon/pythonCrawler/blob/master/chineseUniversityRankCrawler/RankofNuni.py)
+        + 美味汤、requests库的使用
+    - [实战：美桌网图片爬取实例4则](https://github.com/ZhuoZhuoCrayon/pythonCrawler/tree/master/pictureCrawler)
+        + 入门级别
+        + 实践多线程、美味汤、requests库
 ---
 >## Contributing
 >如果你对这个项目感兴趣，非常乐意你可以将.py文件的笔记和代码进行格式加工
