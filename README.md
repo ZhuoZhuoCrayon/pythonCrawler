@@ -1,4 +1,5 @@
 # pythonCrawler
+[![HitCount](http://hits.dwyl.com/ZhuoZhuoCrayon/pythonCrawler.svg)](http://hits.dwyl.com/ZhuoZhuoCrayon/pythonCrawler)
 >## Notice
 1. exe_file 是本程序爬取的附录，全部测试、实战读写路径全部指向exe\_file
 2. 本爬虫笔记基于b站 [Python爬虫从入门到高级实战【92集】千锋Python高级教程](https://www.bilibili.comvideo/av37027372)
